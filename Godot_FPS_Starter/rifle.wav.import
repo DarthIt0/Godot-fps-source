@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/rifle.wav-a0843e99b9ea88467ce19571f958aded.sample"
+
+[deps]
+
+source_file="res://rifle.wav"
+dest_files=[ "res://.import/rifle.wav-a0843e99b9ea88467ce19571f958aded.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
